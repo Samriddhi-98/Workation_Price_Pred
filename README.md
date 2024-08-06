@@ -6,6 +6,5 @@ This repository contains code for predicting the price per person for a workstat
 Dataset
 The dataset consists of over 18,000+ rows and multiple columns.
 
-File Structure
-data: Contains the training and test datasets.
-notebooks: Contains notebooks with the exploratory data analysis (EDA), feature engineering, and model building process. 
+File Structure 
+Notebooks: Contains notebooks with the exploratory data analysis (EDA), feature engineering, and model building process. 
